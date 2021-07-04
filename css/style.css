@@ -1,0 +1,33 @@
+h3{
+    color: orangered;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+
+p{
+    color: blue;
+    font-size: 20px;
+    text-align: justify;
+}
+
+#a{
+    color: green;
+}
+#b{
+    color: red;
+}
+#c{
+    color: brown;
+}
+.common{
+   border: 5px solid orangered;
+   border-radius: 20px;
+   width: 50%;
+   margin: 0 auto;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   padding: 20px;
+}
